@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    width: 150px;
+    display: flex;
+}
+
+.fon {
+    background-color: blueviolet;
+    height: 60px;
+}
+.тг{
+  background-color: blueviolet;
+  width: 100px;   
+}
